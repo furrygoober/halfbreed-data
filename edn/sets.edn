@@ -684,4 +684,13 @@
   :name "Vantage Point"
   :position 1
   :set-type :data-pack
-  :size 66}]
+  :size 66}
+ {:code "underbelly"
+  :cycle-id "underbelly"
+  :date-release "2026-12-15"
+  :deluxe false
+  :id "underbelly"
+  :name "Underbelly"
+  :position 1
+  :set-type :data-pack
+  :size 45}]

@@ -147,4 +147,9 @@
   :name "Vantage Point"
   :position 35
   :rotated false
-  :size 1}]
+  :size 1}
+ {:id "stratification"
+  :name "Stratification"
+  :position 350
+  :rotated false
+  :size 3}]

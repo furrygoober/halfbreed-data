@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :anarch
+ :id "haze"
+ :influence-limit 22
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "You can not have any Criminal cards in your deck. You start with a Criminal console in play"
+ :stripped-title "Haze: SOB"
+ :subtype [:cyborg]
+ :text "You can not have any Criminal cards in your deck. You start with a Criminal console in play"
+ :title "Haze: SOB"
+ :type :identity
+ :uniqueness false}
