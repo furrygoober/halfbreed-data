@@ -686,7 +686,7 @@
   :set-type :data-pack
   :size 66}
  {:code "underbelly"
-  :cycle-id "underbelly"
+  :cycle-id "stratification"
   :date-release "2026-12-15"
   :deluxe false
   :id "underbelly"

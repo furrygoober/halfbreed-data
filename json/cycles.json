@@ -173,5 +173,12 @@
         "position": 31,
         "rotated": false,
         "size": 1
+    },
+    {
+        "code": "stratification",
+        "name": "Stratification",
+        "position": 350,
+        "rotated": false,
+        "size": 1
     }
 ]
