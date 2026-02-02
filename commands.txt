@@ -1,0 +1,16 @@
+## adding cards
+
+-- create set
+vim edn/sets.edn
+
+-- create cycle
+vim edn/cycles.edn
+
+-- create update cards in set
+vim edn/set-cards/{SET_NAME.edn}
+
+-- create the file for the card
+vim edn/cards/{CARD-ID}.edn
+
+-- from halfbreeds fetch the updated card info
+lein fetch -l lein fetch --local ../halfbreed-data

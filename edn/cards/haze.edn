@@ -2,8 +2,8 @@
  :deck-limit 1
  :faction :anarch
  :id "haze"
- :influence-limit 17
- :minimum-deck-size 45
+ :influence-limit 12
+ :minimum-deck-size 50
  :side :runner
  :stripped-text "You can not have any Criminal cards in your deck. You start with a Criminal console in play"
  :stripped-title "Haze: SOB"
