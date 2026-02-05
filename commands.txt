@@ -12,5 +12,9 @@ vim edn/set-cards/{SET_NAME.edn}
 -- create the file for the card
 vim edn/cards/{CARD-ID}.edn
 
+-- create raw file
+clj -X:combine
+
 -- from halfbreeds fetch the updated card info
-lein fetch -l lein fetch --local ../halfbreed-data
+lein fetch --local ../halfbreed-data
+lein fetch -d --no-card-images -r furrygoober/halfbreed-data
