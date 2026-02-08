@@ -4,4 +4,11 @@
   :illustrator "An Apex distant ancestor"
   :position 1
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "betrayer"
+  :code "200002"
+  :flavor "In New Angeles any affilication can turn out to be a liability - Tina"
+  :illustrator "An Apex distant ancestor"
+  :position 2
+  :quantity 3
   :set-id "underbelly"}]

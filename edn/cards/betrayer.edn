@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "betrayer"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "+1 mu Trash 1 of your installed connections: Prevent 1 meat damage. Limit 1 console per player."
+ :stripped-title "Betrayer"
+ :subtype [:console]
+ :text "+1[mu]\nTrash 1 of your installed connections: Prevent 1 meat damage.\nLimit 1 <strong>console</strong> per player."
+ :title "Betrayer"
+ :type :hardware
+ :uniqueness true}
