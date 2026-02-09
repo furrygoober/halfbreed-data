@@ -11,4 +11,11 @@
   :illustrator "An Apex distant ancestor"
   :position 2
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "propagationengine"
+  :code "200003"
+  :flavor "Override, Overload, Overpower"
+  :illustrator "An Apex distant ancestor"
+  :position 3
+  :quantity 3
   :set-id "underbelly"}]
