@@ -4,10 +4,10 @@
  :id "propagationengine"
  :influence-cost 2
  :side :runner
- :stripped-text "+:1mu: use this MU only for virus programs 1:recurringcredit: Use this credit to pay for installing or using virus programs."
+ :stripped-text "+:1mu: use this MU only for virus programs 1 recurringcredit Use this credit to pay for installing or using virus programs."
  :stripped-title "Propagation Engine"
  :subtype [:chip]
- :text "+1[mu]\nuse this MU only for virus programs\n1:recurringcredit: Use this credit to pay for installing or using virus programs."
+ :text "+1[mu]\nuse this MU only for virus programs\n1[recurringcredit] Use this credit to pay for installing or using virus programs."
  :title "Propagation Engine"
  :type :hardware
  :uniqueness false}

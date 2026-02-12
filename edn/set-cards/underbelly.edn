@@ -18,4 +18,11 @@
   :illustrator "An Apex distant ancestor"
   :position 3
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "cryptojack"
+  :code "200004"
+  :flavor "There are mining accidents, then there are mining accidents. I hope one day I can stop dreaming of wallets.  – Friend of a friend"
+  :illustrator "An Apex distant ancestor"
+  :position 4
+  :quantity 3
   :set-id "underbelly"}]
