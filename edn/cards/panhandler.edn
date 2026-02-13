@@ -4,10 +4,10 @@
  :id "panhandler"
  :influence-cost 1
  :side :runner
- :stripped-text "When your turn begins, gain 1 credit. When you install Panhandler, lose all credits in you credit pool"
+ :stripped-text "When your turn begins, gain 1 credit. When you install Panhandler, lose all credits in your credit pool"
  :stripped-title "Panhandler"
  :subtype [:connection]
- :text "When your turn begins, gain 1[credit]\nWhen you install Panhandler, lose all credits in you credit pool"
+ :text "When your turn begins, gain 1[credit]\nWhen you install Panhandler, lose all credits in your credit pool"
  :title "Panhandler"
  :type :resource
  :uniqueness false}
