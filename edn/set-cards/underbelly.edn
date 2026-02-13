@@ -25,4 +25,11 @@
   :illustrator "An Apex distant ancestor"
   :position 4
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "panhandler"
+  :code "200005"
+  :flavor "For the big jobs everyone contributes. Each in their own way."
+  :illustrator "An Apex distant ancestor"
+  :position 5
+  :quantity 3
   :set-id "underbelly"}]

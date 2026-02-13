@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "panhandler"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "When your turn begins, gain 1 credit. When you install Panhandler, lose all credits in you credit pool"
+ :stripped-title "Panhandler"
+ :subtype [:connection]
+ :text "When your turn begins, gain 1[credit]\nWhen you install Panhandler, lose all credits in you credit pool"
+ :title "Panhandler"
+ :type :resource
+ :uniqueness false}
