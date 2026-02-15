@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "remoteconnection"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Install only if you make a successful run on a central server. When you install this program, choose a remote server. Successful runs on that server also count as a successful run on a central server"
+ :stripped-title "Remote Connection"
+ :subtype [:trojan]
+ :text "Install only if you make a successful run on a central server.\n When you install this program, choose a remote server. Successful runs on that server also count as a successful run on a central server"
+ :title "Remote Connection"
+ :type :program
+ :uniqueness false}

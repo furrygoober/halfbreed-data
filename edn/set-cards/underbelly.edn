@@ -39,4 +39,11 @@
   :illustrator "An Apex distant ancestor"
   :position 6
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "remoteconnection"
+  :code "200007"
+  :flavor "update me"
+  :illustrator "An Apex distant ancestor"
+  :position 7
+  :quantity 3
   :set-id "underbelly"}]
