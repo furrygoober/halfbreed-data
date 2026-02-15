@@ -32,4 +32,11 @@
   :illustrator "An Apex distant ancestor"
   :position 5
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "tina"
+  :code "200006"
+  :flavor "Ever since her days as a street urchin, she routinely came to the store with interesting items to sell me.  I never asked where she got them, and she never told me. - Aesop"
+  :illustrator "An Apex distant ancestor"
+  :position 6
+  :quantity 3
   :set-id "underbelly"}]

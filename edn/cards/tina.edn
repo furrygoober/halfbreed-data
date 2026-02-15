@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :criminal
+ :id "tina"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "Lower the install cost of the first unique card each turn by 2 credit"
+ :stripped-title "Tina: Light-Fingered"
+ :subtype [:natural]
+ :text "Lower the install cost of the first unique card each turn by 2[credit]"
+ :title "Tina: Light-Fingered"
+ :type :identity
+ :uniqueness false}
