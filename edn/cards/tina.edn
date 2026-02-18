@@ -5,10 +5,10 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
- :stripped-text "Lower the install cost of the first unique card each turn by 2 credit"
+ :stripped-text "If the first card you install each turn is unique gain 2 credits"
  :stripped-title "Tina: Light-Fingered"
  :subtype [:natural]
- :text "Lower the install cost of the first unique card each turn by 2[credit]"
+ :text "If the first card you install each turn is unique gain 2[credit]"
  :title "Tina: Light-Fingered"
  :type :identity
  :uniqueness false}
