@@ -46,4 +46,11 @@
   :illustrator "An Apex distant ancestor"
   :position 7
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "robin"
+  :code "200008"
+  :flavor "Some ideals journey with us through time. Like an old comrade, or an associate, or a virus."
+  :illustrator "An Apex distant ancestor"
+  :position 8
+  :quantity 3
   :set-id "underbelly"}]

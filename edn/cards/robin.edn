@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "robin"
+ :influence-cost 4
+ :side :runner
+ :stripped-text "Whenever you make a successful run on HQ, if you have less credits then the corp, gain 1 credit, and the corp loses 1 credit. Limit 1 console per player"
+ :stripped-title "Robin"
+ :subtype [:console]
+ :text "Whenever you make a successful run on HQ, if you have less [credit] then the corp, gain 1[credit], and the corp loses 1[credit].\nLimit 1 <strong>console</strong> per player."
+ :title "Robin"
+ :type :hardware
+ :uniqueness true}
