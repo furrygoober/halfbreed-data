@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "recordremoval"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Make a run on HQ. If successful access 1 additional card. When the run ends, remove 1 tag for each card accessed."
+ :stripped-title "Record Removal"
+ :subtype [:run]
+ :text "Make a run on HQ. If successful access 1 additional card.\nWhen the run ends, remove 1 tag for each card accessed."
+ :title "Record Removal"
+ :type :event
+ :uniqueness false}

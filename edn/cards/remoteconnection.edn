@@ -5,10 +5,10 @@
  :influence-cost 3
  :memory-cost 1
  :side :runner
- :stripped-text "click: Run on remote server. Install only if you made a successful run on a central server. Select a remote server. Successful runs on that remote server will instead be successful run on HQ or RD. Instead of accessing cards, one card from HQ will be revealed."
+ :stripped-text "click Run selected remote server. Successful runs on that remote server will reveal one random card from HQ and the run will count as if you made a successful run on HQ or RD Install only if you made a successful run on a central server. When installed select a remote server. "
  :stripped-title "Remote Connection"
  :subtype []
- :text "[click]<strong>:</strong> Run on remote server. Install only if you made a successful run on a central server. Select a remote server. Successful runs on that remote server will instead be successful run on HQ or RD. Instead of accessing cards, one card from HQ will be revealed."
+ :text "[click]<strong>:</strong> Run selected remote server. Successful runs on that remote server will reveal one random card from HQ and the run will count as if you made a successful run on HQ or RD\n Install only if you made a successful run on a central server.\nWhen installed select a remote server. "
  :title "Remote Connection"
  :type :program
  :uniqueness false}

@@ -53,4 +53,11 @@
   :illustrator "An Apex distant ancestor"
   :position 8
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "recordremoval"
+  :code "200009"
+  :flavor "Since I'm already here, I might as well see what this does, and what this does, and.."
+  :illustrator "An Apex distant ancestor"
+  :position 9
+  :quantity 3
   :set-id "underbelly"}]
