@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "rechannelfunds"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Run a server, gain credits equal to the trash cost of any cards accessed. Derez those cards if they are rezzed. When accessing an Ambush trash it by taking a meat damage"
+ :stripped-title "Rechannel Funds"
+ :subtype [:run]
+ :text "Run a server, gain credits equal to the trash cost of any cards accessed.\nDerez those cards if they are rezzed. When accessing an Ambush trash it by taking a meat damage"
+ :title "Rechannel Funds"
+ :type :event
+ :uniqueness false}

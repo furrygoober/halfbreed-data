@@ -60,4 +60,11 @@
   :illustrator "An Apex distant ancestor"
   :position 9
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "rechannelfunds"
+  :code "200010"
+  :flavor "Corporate bureaucracy. A slow-moving labyrinth. Where one siloed team doesn’t know what any other siloed team is doing. Leaving a system riddled with opportunities."
+  :illustrator "An Apex distant ancestor"
+  :position 10
+  :quantity 3
   :set-id "underbelly"}]
