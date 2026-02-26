@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :shaper
+ :id "fuse"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "click to discard two pieces of hardware to install a piece of hardware 4 credits less"
+ :stripped-title "Fuse: Scrap Junky"
+ :subtype [:g-mod]
+ :text "[click] to discard two pieces of hardware to install a piece of hardware for 4[credit] less"
+ :title "Fuse: Scrap Junky"
+ :type :identity
+ :uniqueness false}

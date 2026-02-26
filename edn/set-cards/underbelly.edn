@@ -67,4 +67,11 @@
   :illustrator "An Apex distant ancestor"
   :position 10
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "fuse"
+  :code "200011"
+  :flavor "He is the one person who can see and understand the hardware matrices all around us"
+  :illustrator "An Apex distant ancestor"
+  :position 11
+  :quantity 3
   :set-id "underbelly"}]
