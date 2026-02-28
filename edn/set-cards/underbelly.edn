@@ -74,4 +74,11 @@
   :illustrator "An Apex distant ancestor"
   :position 11
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "chinook"
+  :code "200012"
+  :flavor "Brute force is a technique that has been around since the days when we were still able to beat programs at abstract games -- Fuse"
+  :illustrator "An Apex distant ancestor"
+  :position 12
+  :quantity 3
   :set-id "underbelly"}]
