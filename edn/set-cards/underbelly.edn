@@ -81,4 +81,11 @@
   :illustrator "An Apex distant ancestor"
   :position 12
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "swissstation"
+  :code "200013"
+  :flavor "One man's trash can be turned into another man's treasure. -- Fuse"
+  :illustrator "An Apex distant ancestor"
+  :position 13
+  :quantity 3
   :set-id "underbelly"}]

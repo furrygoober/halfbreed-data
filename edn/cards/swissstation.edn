@@ -1,0 +1,13 @@
+{:cost 5
+ :deck-limit 3
+ :faction :shaper
+ :id "swissstation"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "+1 mu +1 link 1 Your maximum hand size is increased by  recurring credit Use these credits to pay for using icebreakers. Limit 1 console per player."
+ :stripped-title "Swiss Station"
+ :subtype [:console]
+ :text "+1[mu] +1[link]\nYour maximum hand size is increased by 1\n1[recurring-credit]\nUse these credits to pay for using <strong>icebreakers</strong>.\nLimit 1 <strong>console</strong> per player."
+ :title "Swiss Station"
+ :type :hardware
+ :uniqueness true}
