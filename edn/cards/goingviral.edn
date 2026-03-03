@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "goingviral"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "When you install Going Viral, Take one net damage. Gain a credit for every net damage taken from the corp"
+ :stripped-title "Going Viral"
+ :subtype [:virtual :job]
+ :text "When you install Going Viral, Take one net damage. Gain a [credit] for every net damage taken from the corp"
+ :title "Going Viral"
+ :type :resource
+ :uniqueness true}

@@ -88,4 +88,11 @@
   :illustrator "An Apex distant ancestor"
   :position 13
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "goingviral"
+  :code "200014"
+  :flavor "When you can't afford a modded network, or a proper filter or a shield, there are other options..."
+  :illustrator "An Apex distant ancestor"
+  :position 14
+  :quantity 3
   :set-id "underbelly"}]
