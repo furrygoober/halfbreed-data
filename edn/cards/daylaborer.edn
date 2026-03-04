@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "daylaborer"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Play only as your first click. At the end of this turn gain 2 credits for each hardware and resource installed."
+ :stripped-title "Day Laborer"
+ :subtype [:priority :job]
+ :text "Play only as your first [click].\nAt the end of this turn gain 2[credit] for each hardware and resource installed."
+ :title "Day Laborer"
+ :type :event
+ :uniqueness false}

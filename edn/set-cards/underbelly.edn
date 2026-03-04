@@ -95,4 +95,11 @@
   :illustrator "An Apex distant ancestor"
   :position 14
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "daylaborer"
+  :code "200015"
+  :flavor "Ten installs before sundown. That’s rent covered."
+  :illustrator "An Apex distant ancestor"
+  :position 15
+  :quantity 3
   :set-id "underbelly"}]
