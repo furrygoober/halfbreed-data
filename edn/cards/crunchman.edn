@@ -1,0 +1,14 @@
+{:base-link 2
+ :deck-limit 1
+ :faction :neutral-runner
+ :id "crunchman"
+ :influence-limit 0
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "Cloud cards do not cost influence. You may also include a playset of one non-cloud card from each faction for 0 influence"
+ :stripped-title "Crunchman: Whistleblower"
+ :subtype [:digital :natural]
+ :text "Cloud cards do not cost influence. You may also include a playset of one non-cloud card from each faction for 0 influence"
+ :title "Crunchman: Whistleblower"
+ :type :identity
+ :uniqueness false}

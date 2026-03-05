@@ -102,4 +102,11 @@
   :illustrator "An Apex distant ancestor"
   :position 15
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "crunchman"
+  :code "200016"
+  :flavor "The Corps blacklisted him for talking. The runners ostracized him for the long trail of flatlined colleagues. Now he is going to show them; he is going to show them all."
+  :illustrator "An Apex distant ancestor"
+  :position 16
+  :quantity 3
   :set-id "underbelly"}]
