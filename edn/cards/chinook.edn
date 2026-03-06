@@ -7,7 +7,7 @@
  :side :runner
  :strength 1
  :stripped-text "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: +1 strength."
- :stripped-title "ZU.13 Key Master"
+ :stripped-title "Chinook"
  :subtype [:icebreaker :decoder :cloud]
  :text "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength."
  :title "Chinook"

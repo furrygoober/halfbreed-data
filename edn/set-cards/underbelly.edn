@@ -109,4 +109,11 @@
   :illustrator "An Apex distant ancestor"
   :position 16
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "heuristic-bypass"
+  :code "200017"
+  :flavor "I knew this would be the last authorized trip to RD. I pocketed whatever advanced tech was within reach. -- Crunchman"
+  :illustrator "An Apex distant ancestor"
+  :position 17
+  :quantity 3
   :set-id "underbelly"}]

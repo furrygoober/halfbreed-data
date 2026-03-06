@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "heuristic-bypass"
+ :influence-cost 3
+ :memory-cost 2
+ :side :runner
+ :strength 2
+ :stripped-text "When you install this program, choose two non code gate, barrier, sentry subtypes. 1 credit: Break 2 subroutines on a piece of ice that has the chosen subtype. 2 credit: +3 strength"
+ :stripped-title "Heuristic-Bypass"
+ :subtype [:icebreaker :virus]
+ :text "When you install this program, choose two non code gate, barrier, sentry subtypes.\n<strong>1[credit]:</strong> Break 2 subroutines on a piece of ice that has the chosen subtype.\n2[credit]: +3 strength"
+ :title "Heuristic-Bypass"
+ :type :program
+ :uniqueness false}
