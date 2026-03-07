@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "neurondonation"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "click to take one brain damage that can not be prevented. Gain 6 credits"
+ :stripped-title "Neuron Donation"
+ :subtype [:location :seedy]
+ :text "[click] to take one brain damage that can not be prevented. Gain 6[credits]"
+ :title "Neuron Donation"
+ :type :resource
+ :uniqueness false}

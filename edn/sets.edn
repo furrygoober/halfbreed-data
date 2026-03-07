@@ -693,4 +693,22 @@
   :name "Underbelly"
   :position 1
   :set-type :data-pack
+  :size 45}
+ {:code "thecubiclefarm"
+  :cycle-id "stratification"
+  :date-release "2026-12-15"
+  :deluxe false
+  :id "the-cubicle-farm"
+  :name "The Cubicle Farm"
+  :position 2
+  :set-type :data-pack
+  :size 45}
+ {:code "thestratos"
+  :cycle-id "stratification"
+  :date-release "2026-12-15"
+  :deluxe false
+  :id "the-stratos"
+  :name "The Stratos"
+  :position 3
+  :set-type :data-pack
   :size 45}]

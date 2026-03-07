@@ -7,10 +7,14 @@ vim edn/sets.edn
 vim edn/cycles.edn
 
 -- create update cards in set
+### not spaces should be a - in id names
 vim edn/set-cards/{SET_NAME.edn}
 
 -- create the file for the card
 vim edn/cards/{CARD-ID}.edn
+
+-- update under halfbreeds:
+./resources/public/i18n/en.ftl
 
 -- create raw file
 clj -X:combine
