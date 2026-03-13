@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "betrayer"
- :influence-cost 2
+ :influence-cost 1
  :side :runner
  :stripped-text "+1 mu Trash 1 of your installed connections: Prevent 1 meat damage. Limit 1 console per player."
  :stripped-title "Betrayer"
