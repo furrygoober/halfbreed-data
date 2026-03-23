@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "ubs"
+ :influence-cost 0
+ :side :runner
+ :stripped-text "At the start of you turn you may choose one option you qualify for. If you have suffed any brain dmg, draw a card and discard a card. If you have 0-4 credits gain a credit. If you have less then 2 cards gain a click"
+ :stripped-title "UBS"
+ :subtype [:location]
+ :text "At the start of you turn you may choose one option you qualify for. If you have suffed any brain dmg, draw a card and discard a card. If you have 0-4[credits] gain a credit. If you have less then 2 cards gain a click"
+ :title "UBS"
+ :type :resource
+ :uniqueness true}

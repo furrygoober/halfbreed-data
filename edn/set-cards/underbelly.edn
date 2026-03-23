@@ -105,7 +105,7 @@
   :set-id "underbelly"}
 {:card-id "crunchman"
   :code "200016"
-  :flavor "The Corps blacklisted him for talking. The runners ostracized him for the long trail of flatlined colleagues. Now he is going to show them; he is going to show them all."
+  :flavor "The Corps blacklisted him for talking. The runners ostracized him for his long history of flatlining thier colleagues. Now he is going to show them; he is going to show them all"
   :illustrator "An Apex distant ancestor"
   :position 16
   :quantity 3
@@ -115,5 +115,12 @@
   :flavor "I knew this would be the last authorized trip to RD. I pocketed whatever advanced tech was within reach. -- Crunchman"
   :illustrator "An Apex distant ancestor"
   :position 17
+  :quantity 3
+  :set-id "underbelly"}
+{:card-id "ubs"
+  :code "200018"
+  :flavor "The larger and richer the corporations grew, the longer the lines at places like UBS became. The reason was definitely not because of the flavor of the universal basic sustenance "
+  :illustrator "An Apex distant ancestor"
+  :position 18
   :quantity 3
   :set-id "underbelly"}]

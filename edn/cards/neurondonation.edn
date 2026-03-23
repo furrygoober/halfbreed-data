@@ -10,4 +10,4 @@
  :text "When Neuron Donation is installed take one brain damage.\nOnce per trun [click] to gain 7[credits] and take one brain damage that can not be prevented."
  :title "Neuron Donation"
  :type :resource
- :uniqueness false}
+ :uniqueness true}

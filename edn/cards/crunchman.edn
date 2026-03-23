@@ -7,7 +7,7 @@
  :side :runner
  :stripped-text "Cloud cards do not cost influence. You may also include a playset of one non-cloud card from each faction for 0 influence"
  :stripped-title "Crunchman: Whistleblower"
- :subtype [:digital :natural]
+ :subtype [:digital :cyborg]
  :text "Cloud cards do not cost influence. You may also include a playset of one non-cloud card from each faction for 0 influence"
  :title "Crunchman: Whistleblower"
  :type :identity
