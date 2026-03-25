@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "scrapcontract"
+ :influence-cost 0
+ :side :runner
+ :stripped-text "Interrupt -> trash: Remove your heap from the game. Gain 1 credit for every 3 cards removed"
+ :stripped-title "Scrap Contract"
+ :subtype [:connection]
+ :text "[interrupt] → [trash]: Remove your heap from the game. Gain 1[credit] for every 3 cards removed"
+ :title "Scrap Contract"
+ :type :resource
+ :uniqueness false}
+

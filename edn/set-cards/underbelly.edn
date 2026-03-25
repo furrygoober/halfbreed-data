@@ -123,4 +123,11 @@
   :illustrator "An Apex distant ancestor"
   :position 18
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "scrapcontract"
+  :code "200019"
+  :flavor "Ever since they switched to cyberdogs, it's become a lot harder to fullfill my contracts"
+  :illustrator "An Apex distant ancestor"
+  :position 19
+  :quantity 3
   :set-id "underbelly"}]
