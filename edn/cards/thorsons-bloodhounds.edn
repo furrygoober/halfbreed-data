@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :weyland-consortium
+ :id "thorsons-bloodhounds"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "When the runner is tagged, then the first time each turn the runner draws a card, do 1 meat damage."
+ :stripped-title "Thorsons Bloodhounds"
+ :subtype [:subsidiary]
+ :text "When the runner is tagged, then the first time each turn the runner draws a card, do 1 meat damage."
+ :title "Thorsons Bloodhounds"
+ :type :identity
+ :uniqueness false}

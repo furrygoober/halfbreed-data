@@ -4,10 +4,10 @@
  :id "goingviral"
  :influence-cost 1
  :side :runner
- :stripped-text "Gain a credit for every net damage taken from the corp"
+ :stripped-text "Gain a credit for every net damage taken"
  :stripped-title "Going Viral"
  :subtype [:virtual :job]
- :text "Gain a [credit] for every net damage taken from the corp"
+ :text "Gain a [credit] for every net damage taken"
  :title "Going Viral"
  :type :resource
  :uniqueness true}

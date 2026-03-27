@@ -130,4 +130,11 @@
   :illustrator "An Apex distant ancestor"
   :position 19
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "thorsons-bloodhounds"
+  :code "200020"
+  :flavor "Tag em and bag em"
+  :illustrator "An Apex distant ancestor"
+  :position 20
+  :quantity 3
   :set-id "underbelly"}]
