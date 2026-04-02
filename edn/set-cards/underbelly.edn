@@ -137,4 +137,11 @@
   :illustrator "An Apex distant ancestor"
   :position 20
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "bait-and-switch"
+  :code "200021"
+  :flavor "The bloodhounds were not above using any tactic available to make a capture. A few bloodhounds, did their best."
+  :illustrator "An Apex distant ancestor"
+  :position 21
+  :quantity 3
   :set-id "underbelly"}]

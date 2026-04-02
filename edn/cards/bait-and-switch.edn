@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "bait-and-switch"
+ :side :corp
+ :stripped-text "When the runner accesses Bait and Switch while installed they must take 1 tag or meat damage for each advancement token on it."
+ :stripped-title "Bait and Switch"
+ :subtype [:ambush]
+ :text "When the runner accesses Bait and Switch while installed they must take 1 tag or meat damage for each advancement token on it."
+ :title "Bait and Switch"
+ :type :agenda
+ :uniqueness false}
