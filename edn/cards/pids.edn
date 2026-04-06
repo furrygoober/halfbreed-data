@@ -1,8 +1,8 @@
-{:cost 2
+{:cost 3
  :deck-limit 3
  :faction :weyland-consortium
  :id "pids"
- :influence-cost 1
+ :influence-cost 2
  :side :corp
  :strength 0
  :stripped-text "If the runner bypasses or trashes PIDS from anywhere, give the runner 1 tag."
