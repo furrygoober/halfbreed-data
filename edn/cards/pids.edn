@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 0
- :stripped-text "If the runner bypasses or trashes PIDS, they get 1 tag."
+ :stripped-text "If the runner bypasses or trashes PIDS from anywhere, give the runner 1 tag."
  :stripped-title "PIDS"
  :subtype [:code-gate]
- :text "If the runner bypasses or trashes PIDS, they get 1 tag."
+ :text "If the runner bypasses or trashes PIDS from anywhere, give the runner 1 tag."
  :title "PIDS"
  :type :ice
  :uniqueness false}
