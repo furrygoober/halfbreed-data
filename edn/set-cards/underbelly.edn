@@ -151,4 +151,11 @@
   :illustrator "An Apex distant ancestor"
   :position 22
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "security-lockdown"
+  :code "200023"
+  :flavor "Nothing in, Nothing out."
+  :illustrator "An Apex distant ancestor"
+  :position 23
+  :quantity 3
   :set-id "underbelly"}]

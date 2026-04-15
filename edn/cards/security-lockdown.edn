@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "security-lockdown"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "When you rez Security Lockdown, take 1 bad publicitly. Only rez Security Lockdown on your turn. Agendas cannot be stolen or scored. Lose 3 credits when advancing cards. Limit 1 region per server."
+ :stripped-title "Security Lockdown"
+ :subtype [:region :illicit]
+ :text "When you rez Security Lockdown, take 1 bad publicitly. Only rez Security Lockdown on your turn.\n Agendas cannot be stolen or scored.\nLose 3 [credits] when advancing cards\nLimit 1 <strong>region</strong> per server."
+ :title "Security Lockdown"
+ :trash-cost 4
+ :type :asset
+ :uniqueness true}
