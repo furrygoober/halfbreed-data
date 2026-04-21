@@ -158,4 +158,11 @@
   :illustrator "An Apex distant ancestor"
   :position 23
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "asset-rationalization"
+  :code "200024"
+  :flavor "In order to facilitate synergic realignment of assets, we will be undertaking a proactive downtime initiative to optimize our logistical workflows and maximize operational deliverables."
+  :illustrator "An Apex distant ancestor"
+  :position 24
+  :quantity 3
   :set-id "underbelly"}]
