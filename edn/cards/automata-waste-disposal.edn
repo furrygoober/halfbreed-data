@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "automata-waste-disposal"
+ :influence-limit 17
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "At the end of your turn remove from the game one card from the runners heap"
+ :stripped-title "Automata Waste Disposal: Efficient Reclamation"
+ :subtype [:megacorp]
+ :text "At the end of your turn remove from the game one card from the runners heap"
+ :title "Automata Waste Disposal: Efficient Reclamation"
+ :type :identity
+ :uniqueness false}

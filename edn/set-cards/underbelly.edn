@@ -165,4 +165,11 @@
   :illustrator "An Apex distant ancestor"
   :position 24
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "automata-waste-disposal"
+  :code "200025"
+  :flavor "The new Automata waste bioroids can reassemble micro cut."
+  :illustrator "An Apex distant ancestor"
+  :position 25
+  :quantity 3
   :set-id "underbelly"}]
