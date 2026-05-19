@@ -172,4 +172,11 @@
   :illustrator "An Apex distant ancestor"
   :position 25
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "bioroid-efficiency-protocol"
+  :code "200026"
+  :flavor "Is it just me, or do the Bioroids seem nervous everytime Dr. Kalvins is onsite?"
+  :illustrator "An Apex distant ancestor"
+  :position 26
+  :quantity 3
   :set-id "underbelly"}]
