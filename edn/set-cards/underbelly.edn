@@ -179,4 +179,11 @@
   :illustrator "An Apex distant ancestor"
   :position 26
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "ip-audit-1.0"
+  :code "200027"
+  :flavor "“Runners are only as good as they are vigilant. Eventually they all make mistakes. They are only human.” – Inner monologue of Bioroid sysadmin unit 33-kappa, recorded just before Hass-Bioroid recalled and terminated that specific production line."
+  :illustrator "An Apex distant ancestor"
+  :position 27
+  :quantity 3
   :set-id "underbelly"}]

@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ip-audit-1.0"
+ :influence-cost 3
+ :side :corp
+ :strength 5
+ :stripped-text "As an additional cost to rez this ice, forfeit 1 agenda. The Runner may spend a click to break a subroutine on IP Audit 1.0. Subroutine Trash 1 installed virus. Subroutine Purge virus counters. Subroutine Trash 1 installed console. Subroutine Trash 1 installed chip. Subroutine Trash 1 installed virtual resource. Subroutine Trash 1 installed connection resource."
+ :stripped-title "Enforcer 1.0"
+ :subtype [:sentry :bioroid :destroyer]
+ :text "As an additional cost to rez this ice, forfeit 1 agenda.\n<strong>The Runner may spend a click to break a subroutine on IP Audit 1.0.\n[subroutine] Trash 1 installed virus.\n[subroutine] Purge virus counters.\n[subroutine] Trash 1 installed <strong>console</strong>.\n[subroutine] Trash 1 installed <strong>chip</strong>.\n[subroutine] Trash 1 installed <strong>virtual</strong> resource.\n[subroutine]Trash 1 installed <strong>connection</strong> resource."
+ :title "IP Audit 1.0"
+ :type :ice
+ :uniqueness false}
