@@ -182,8 +182,15 @@
   :set-id "underbelly"}
 {:card-id "ip-audit-1.0"
   :code "200027"
-  :flavor "“Runners are only as good as they are vigilant. Eventually they all make mistakes. They are only human.” – Inner monologue of Bioroid sysadmin unit 33-kappa, recorded just before Hass-Bioroid recalled and terminated that specific production line."
+  :flavor "Runners are only as good as they are vigilant. Eventually they all make mistakes. They are only human. – Inner monologue of Bioroid sysadmin unit 33-kappa, recorded just before Hass-Bioroid recalled and terminated that specific production line."
   :illustrator "An Apex distant ancestor"
   :position 27
+  :quantity 3
+  :set-id "underbelly"}
+{:card-id "liquidation-fee"
+  :code "200028"
+  :flavor "Online fee, delivery fee, service fee, swipe fee, non-cash fee, processing fee, restocking fee, early check-in/check-out fee, cancellation fee, overdraft fee, seat selection fee"
+  :illustrator "An Apex distant ancestor"
+  :position 28
   :quantity 3
   :set-id "underbelly"}]

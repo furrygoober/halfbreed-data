@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "liquidation-fee"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "The first time each turn a card is removed from the game gain 1 credit"
+ :stripped-title "Liquidation Fee"
+ :subtype [:advertisement]
+ :text "The first time each turn a card is removed from the game gain 1[credit]"
+ :title "Liquidation Fee"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}
