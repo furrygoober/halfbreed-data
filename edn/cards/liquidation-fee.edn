@@ -9,6 +9,6 @@
  :subtype [:advertisement]
  :text "The first time each turn a card is removed from the game gain 1[credit]"
  :title "Liquidation Fee"
- :trash-cost 3
+ :trash-cost 4
  :type :asset
  :uniqueness false}
