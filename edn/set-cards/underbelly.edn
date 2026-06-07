@@ -193,4 +193,11 @@
   :illustrator "An Apex distant ancestor"
   :position 28
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "infrapulse"
+  :code "200029"
+  :flavor "Who? Where? What? When? Why? How?"
+  :illustrator "An Apex distant ancestor"
+  :position 29
+  :quantity 3
   :set-id "underbelly"}]
