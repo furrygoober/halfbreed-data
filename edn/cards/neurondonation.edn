@@ -4,10 +4,10 @@
  :id "neurondonation"
  :influence-cost 2
  :side :runner
- :stripped-text "When Neuron Donation is installed take one brain damage. Once per turn click to gain 7 credits and one brain damage that can not be prevented."
+ :stripped-text "Click to gain 10 credits, take one brain damage that can not be prevented and end your Action phase."
  :stripped-title "Neuron Donation"
  :subtype [:location :seedy]
- :text "When Neuron Donation is installed take one brain damage.\nOnce per trun [click] to gain 7[credits] and take one brain damage that can not be prevented."
+ :text "Click to gain 10 [credits], take one brain damage that can not be prevented and end your Action phase."
  :title "Neuron Donation"
  :type :resource
  :uniqueness true}
