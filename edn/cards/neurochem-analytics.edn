@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "neurochem-analytics"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "The first time the runner takes net damage during a run, gain 1 credit"
+ :stripped-title "Neurochem Analytics: Future Minds"
+ :subtype [:division]
+ :text "The first time the runner takes net damage during a run, gain 1[credit]"
+ :title "Neurochem Analytics: Future Minds"
+ :type :identity
+ :uniqueness false}

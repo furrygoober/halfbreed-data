@@ -200,4 +200,11 @@
   :illustrator "An Apex distant ancestor"
   :position 29
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "neurochem-analytics"
+  :code "200030"
+  :flavor "Every neural injury generates valuable medical data"
+  :illustrator "An Apex distant ancestor"
+  :position 30
+  :quantity 3
   :set-id "underbelly"}]
