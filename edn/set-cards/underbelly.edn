@@ -207,4 +207,13 @@
   :illustrator "An Apex distant ancestor"
   :position 30
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "personnel-threat-assessment"
+  :code "200031"
+  :flavor "AP is always left to do the hard work of cleaning up the source of most of our problems."
+  :illustrator "An Apex distant ancestor"
+  :position 31
+  :quantity 3
   :set-id "underbelly"}]
+
+
