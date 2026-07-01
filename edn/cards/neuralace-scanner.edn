@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "neuralace-scanner"
+ :side :corp
+ :stripped-text "While the Runner is accessing this agenda in R&D, they must reveal it. When the Runner accesses this agenda anywhere do 1 net damage, you may look at the Runner's grip and select the card that is trashed. You may pay 4 credits to add an additional cost to steal this agenda, the Runner must pay 4 credits"
+ :stripped-title "Neuralace Scanner"
+ :subtype [:ambush]
+ :text "While the Runner is accessing this agenda in R&D, they must reveal it.\n When the Runner accesses this agenda anywhere do 1 net damage, you may look at the Runner's grip and select the card that is trashed.\n You may pay 4 [credits] to add an additional cost to steal this agenda, the Runner must pay 4 [credits]"
+ :title "Neuralace Scanner"
+ :type :agenda
+ :uniqueness false}
