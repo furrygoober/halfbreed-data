@@ -221,4 +221,11 @@
   :illustrator "An Apex distant ancestor"
   :position 32
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "martingale"
+  :code "200033"
+  :flavor "A prime example of failed runner logic. Double or nothing, but only the house can win."
+  :illustrator "An Apex distant ancestor"
+  :position 33
+  :quantity 3
   :set-id "underbelly"}]

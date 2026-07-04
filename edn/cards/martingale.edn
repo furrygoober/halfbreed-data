@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 3
+ :faction :jinteki
+ :id "martingale"
+ :influence-cost 3
+ :side :corp
+ :strength 6
+ :stripped-text "Subroutine Trace[5]. If successful, You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, do 6 net damage"
+ :stripped-title "Martingale"
+ :subtype [:sentry :ap :tracer :psi]
+ :text "Subroutine Trace[5]. If successful, You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, do 6 net damage"
+ :title "Martingale"
+ :type :ice
+ :uniqueness false}
