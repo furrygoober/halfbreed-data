@@ -228,4 +228,11 @@
   :illustrator "An Apex distant ancestor"
   :position 33
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "rearm-the-grid"
+  :code "200034"
+  :flavor "Curiosity is renewable. So are the consequences."
+  :illustrator "An Apex distant ancestor"
+  :position 34
+  :quantity 3
   :set-id "underbelly"}]
