@@ -235,4 +235,11 @@
   :illustrator "An Apex distant ancestor"
   :position 34
   :quantity 3
+  :set-id "underbelly"}
+{:card-id "vox-populi"
+  :code "200035"
+  :flavor "Keeping them misinformed, misled, angry and upset makes them easier to control and manipulate, leads to indoctrination"
+  :illustrator "An Apex distant ancestor"
+  :position 35
+  :quantity 3
   :set-id "underbelly"}]
