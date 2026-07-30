@@ -4,10 +4,10 @@
  :influence-limit 10
  :minimum-deck-size 45
  :side :corp
- :stripped-text "At the start of the Runner's turn, if the Runner did not make a successful run last turn, they gain 1 tag if they do not have a tag. The first time the Runner makes a successful run each turn, remove 1 tag."
+ :stripped-text "At the start of the Runner's turn, if the Runner did not make a run last turn, they gain 1 tag if they do not have a tag. The first time the Runner makes a run each turn, remove 1 tag."
  :stripped-title "Vox Populi: One of Us"
  :subtype [:subsidiary]
- :text "At the start of the Runner's turn, if the Runner did not make a successful run last turn, they gain 1 tag if they do not hae a tag. The first time the Runner makes a successful run each turn, remove 1 tag."
+ :text "At the start of the Runner's turn, if the Runner did not make a  run last turn, they gain 1 tag if they do not hae a tag. The first time the Runner makes a run each turn, remove 1 tag."
  :title "Vox Populi: One of Us"
  :type :identity
  :uniqueness false}
